@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin Peter <img src="https://github.com/BENJAMINPETERYAMA/BENJAMINPETERYAMA/blob/main/cool.gif" width="30px">   , a Developer 🚀 from India.</h1>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/BENJAMINPETERYAMA/BENJAMINPETERYAMA/blob/main/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/BENJAMINPETERYAMA/BENJAMINPETERYAMA/blob/main/programmer.gif">
 
 
 
